@@ -1,0 +1,1 @@
+This project is a basic keylogger built using Python. It records keystrokes pressed by the user and stores them in a text file (keylog.txt). The program captures both normal characters and special keys, making it useful for understanding how keystroke logging works
